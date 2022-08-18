@@ -1,0 +1,10 @@
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\bin\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.deps.json
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\bin\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.dll
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\bin\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.pdb
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.AssemblyInfo.cs
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.dll
+C:\Users\luiz.justo\Desktop\MessageBroker\MessageBroker.ApplicationCore\obj\Debug\netcoreapp3.1\MessageBroker.ApplicationCore.pdb
